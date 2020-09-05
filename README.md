@@ -27,3 +27,6 @@
 1. Go to the edit URL from when you ran `clasp create` to run the app
 1. Review and Accept the app permissions
 1. If you want to change the timer behavior, go to `Edit --> Current Project's Triggers`
+
+## Credits
+- Original [script](https://www.labnol.org/internet/save-google-voicemail-mp3/25153/) this project is derrived from.
