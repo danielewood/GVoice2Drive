@@ -25,7 +25,7 @@
     Pushed 2 files.
     ```
 1. Go to the edit URL from when you ran `clasp create` to run the app
-1. Review and Accept the app permissions
+1. Click the play button, Review and Accept the app permissions
 1. If you want to change the timer behavior, go to `Edit --> Current Project's Triggers`
 
 ## Credits
